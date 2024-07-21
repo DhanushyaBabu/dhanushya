@@ -1,0 +1,6 @@
+The NP in NP class stands for Non-deterministic Polynomial Time. It is the collection of decision problems that can be solved by a non-deterministic machine in polynomial time. 
+
+Features:
+
+The solutions of the NP class are hard to find since they are being solved by a non-deterministic machine but the solutions are easy to verify.
+Problems of NP can be verified by a Turing machine in polynomial time. 
